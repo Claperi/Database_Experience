@@ -1,7 +1,8 @@
 # <div align="center">Database_Experience</div>
 
-<div align="center"> Esquema conceitual para o contexto de Oficina Mecânica
+<div align="center"> Construindo seu Primeiro Projeto Lógico de Banco de Dados
 </div>
 
-![Oficina](https://user-images.githubusercontent.com/96344255/189794178-4aba9c71-02a0-4c35-b7de-1ab821595763.png)
+
+![Ecommerce](https://user-images.githubusercontent.com/96344255/192032933-e315ef9d-f7d8-4e99-a37c-70fea9c37605.png)
 
