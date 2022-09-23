@@ -1,7 +1,7 @@
 # <div align="center">Database_Experience</div>
 
-<div align="center"> Esquema conceitual para o contexto de Oficina Mecânica
+<div align="center"> Desafio 2 - Construa um Esquema Lógico de Banco de Dados do Zero
 </div>
 
-![Oficina](https://user-images.githubusercontent.com/96344255/189794178-4aba9c71-02a0-4c35-b7de-1ab821595763.png)
+![biblioteca](https://user-images.githubusercontent.com/96344255/192058624-ba55cbfe-cb72-4223-9a9b-0658df39e9f3.png)
 
