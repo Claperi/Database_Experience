@@ -59,11 +59,14 @@ Projeto finalizado ✔
 
 ---
 <a href="https://github.com/Claperi" style="text-decoration: none;">
-<img style="border-radius: 50%;" src="url-de-alguma-imagem-por-exemplo-do-github"/>
+<img style="border-radius: 50%;" src="https://img.icons8.com/fluency/2x/github.png"/>
+
+
 
 <br />
 <span> Feito com ❤️ Clauder P Ricardo 👋 Entre em contato! </span> 
 </a> 
+
 
 
 
