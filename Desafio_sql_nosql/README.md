@@ -1,4 +1,11 @@
 ![banner1](https://user-images.githubusercontent.com/96344255/192162202-182f572d-4335-45ce-8e6e-bc99ae0a81d9.jpg)
+<p align="center">
+  <a href="https://github.com/Claperi">
+    <img alt="Feito pelo Clauder P Ricardo" src="https://img.shields.io/badge/Feito%20por-Clauder%20P%20Ricardo-green">
+  </a>
+  <img alt="Licença do Projeto" src="https://img.shields.io/badge/LICENSE-MIT-green"/>
+<p>
+
 
 # <div align="center">O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados</div>
 
